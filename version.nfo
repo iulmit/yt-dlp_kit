@@ -1,0 +1,7 @@
+Encodings: locale cp1255, fs utf-8, out cp1255 (No ANSI), err cp1255 (No ANSI), pref cp1255
+yt-dlp version 2022.03.08.1 [c0c2c57d3]
+Lazy loading extractors is disabled
+Python version 3.10.2 (CPython 32bit) - Windows-10-10.0.19044-SP0
+exe versions: ffmpeg N-106440-gf2967490f1-2022-03-25-nonfree (setts,fdk), ffprobe N-106440-gf2967490f1-2022-03-25-nonfree, phantomjs 2.5.0, rtmpdump 2.3
+Optional libraries: brotli, certifi, Cryptodome, mutagen, sqlite, websockets
+Proxy map: {}
